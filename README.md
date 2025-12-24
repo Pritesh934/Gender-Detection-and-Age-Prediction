@@ -79,7 +79,12 @@ Age: mean_absolute_error (MAE)
 
 # 🚀 Getting Started
 
-Prerequisites: Bash: _Ensure you have the following libraries installed: pip install tensorflow pandas numpy matplotlib seaborn tqdm_
+**Prerequisites**
+
+Ensure you have the following libraries installed:
+```bash
+pip install tensorflow pandas numpy matplotlib seaborn tqdm
+```
 
 **Usage**
 1) Clone the repository.
@@ -101,4 +106,4 @@ Age Prediction: Minimized Mean Absolute Error (MAE) for age estimation.
 
 # Example Output:
 
-Original Gender: Female, Original Age: 26, Predicted Gender: Male, Predicted Age: 27
+Original Gender: Female, Original Age: 26, Predicted Gender: Male, Predicted Age: 31
