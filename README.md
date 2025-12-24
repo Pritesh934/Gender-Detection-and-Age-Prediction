@@ -106,4 +106,5 @@ Age Prediction: Minimized Mean Absolute Error (MAE) for age estimation.
 
 # Example Output:
 
-Original Gender: Female, Original Age: 26, Predicted Gender: Female, Predicted Age: 27
+- Original Gender: Female, Original Age: 26 
+- Predicted Gender: Female, Predicted Age: 27
